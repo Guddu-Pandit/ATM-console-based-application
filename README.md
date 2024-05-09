@@ -1,1 +1,1 @@
-# ATM-console-based-application
+The console-based ATM application offers users secure access to banking services through a text interface. With commands for withdrawals, deposits, transfers, and balance inquiries, it ensures efficient financial management. 
